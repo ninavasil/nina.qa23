@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first_Selenium_project.iml" filepath="$PROJECT_DIR$/.idea/modules/first_Selenium_project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first_Selenium_project.main.iml" filepath="$PROJECT_DIR$/.idea/modules/first_Selenium_project.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first_Selenium_project.test.iml" filepath="$PROJECT_DIR$/.idea/modules/first_Selenium_project.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nina.qa23.iml" filepath="$PROJECT_DIR$/.idea/nina.qa23.iml" />
     </modules>
   </component>
 </project>
